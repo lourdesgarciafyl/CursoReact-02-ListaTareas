@@ -12,7 +12,7 @@ const TaskAdd = () => {
                       onChange=""
                   />
           </div>
-          <div class="mb-3">
+          <div className="mb-3">
               <Button 
                   className='btn btn-success w-100'
                   onClick=""
