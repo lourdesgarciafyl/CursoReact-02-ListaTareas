@@ -4,3 +4,9 @@
     flex-direction: column;
     flex-grow: 1;
 }
+#root{
+    background-color: black;
+}
+.Card{
+    max-width: 200px;
+}
